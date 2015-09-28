@@ -1,0 +1,29 @@
+{
+    "project_type":"javascript",
+    "debugMode":1,
+    "showFPS":false,
+    "frameRate":60,
+    "id":"gameCanvas",
+    "renderMode":0,
+    "engineDir":"frameworks/cocos2d-html5",
+    "modules":[
+        "cocos2d",
+        "extensions"
+    ],
+    "jsList":[
+        "src/util/LocalStorage.js",
+        "src/util/Sound.js",
+        "src/util/anysdkConst.js",
+        "src/GlobalVars.js",
+        "src/GameStartMenu.js",
+        "src/MenuLayer.js",
+        "src/resource.js",
+        "src/AroundPoint.js",
+        "src/RoadLine.js",
+        "src/GameScene.js",
+        "src/LampPoint.js",
+        "src/LifeShow.js",
+        "src/WinScene.js",
+        "src/SelectLevelLayer.js"
+    ]
+}
